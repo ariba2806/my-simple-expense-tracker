@@ -7,11 +7,7 @@ This is a budgeting app that calculates a basic budget based on a list of income
 ### Installing
 
 1.npm install
-```
 
-```
-Enjoy :)
-```
 
 ## Built With
 
